@@ -1,3 +1,6 @@
+# Crystal Collector
+## Instructions
+
 ![Crystal Collector](Images/crystals.png)
 
 1. [Watch the demo](https://youtu.be/yNI0l2FMeCk).
