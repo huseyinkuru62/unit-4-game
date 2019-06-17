@@ -1,8 +1,6 @@
 # Crystal Collector
 ## Instructions
 
-[Live](https://github.com/huseyinkuru62/unit-4-game/index.html)
-
 ![Crystal Collector](assets/images/Crystals.png)
 
 1. [Watch the demo](https://youtu.be/yNI0l2FMeCk).
