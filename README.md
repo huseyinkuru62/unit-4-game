@@ -1,7 +1,7 @@
 # Crystal Collector
 ## Instructions
 
-[Live](https://huseyinkuru62.github.io/unit-4-game/index.html)
+[Live](https://github.com/huseyinkuru62/unit-4-game/index.html)
 
 ![Crystal Collector](assets/images/Crystals.png)
 
